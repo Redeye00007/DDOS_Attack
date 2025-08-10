@@ -14,7 +14,7 @@ pkg install python git
 ### Step 2: Clone the repository (if available on GitHub)
 
 ```bash
-git clone https://github.com/redeye00007/ddos-tool
+git clone https://github.com/Redeye00007/DDOS_Attack
 cd DDOS_Attack
 ```
 
