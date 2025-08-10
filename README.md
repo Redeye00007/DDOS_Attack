@@ -20,7 +20,8 @@ cd DDOS_Attack
 
 ### Step 3: Run the script
 
-```python Ddos.py
+```bash
+python Ddos.py
 ```
 
 ### Important Notes for Termux Users
