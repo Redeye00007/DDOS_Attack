@@ -43,38 +43,6 @@ python Ddos.py
 
 ---
 
-## Requirements
-
-### 1. Python 3.x  
-- Must be installed  
-- Check version with:  
-  ```bash
-  python3 --version
-  ```
-
-### 2. Python Standard Modules  
-- Uses `socket`, `random`, `sys`, `os`, `time`, `webbrowser`  
-- Included by default, no need to install separately
-
-### 3. Linux (Optional)  
-- For opening links, `xdg-utils` package should be installed:  
-  ```bash
-  sudo apt install xdg-utils
-  ```
-
----
-
-## Installation & Running on Linux / macOS / Windows
-
-```bash
-# Install Python if not installed
-sudo apt update && sudo apt install python3   # Linux
-
-# Run the script
-python3 ddos_tool.py
-```
-
----
 
 ## Usage
 
