@@ -15,13 +15,12 @@ pkg install python git
 
 ```bash
 git clone https://github.com/redeye00007/ddos-tool.git
-cd ddos-tool
+cd DDOS_Attack
 ```
 
 ### Step 3: Run the script
 
-```bash
-python ddos_tool.py
+```python Ddos.py
 ```
 
 ### Important Notes for Termux Users
